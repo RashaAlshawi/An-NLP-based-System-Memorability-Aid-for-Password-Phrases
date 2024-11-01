@@ -3,7 +3,7 @@
 
 In today's digital landscape, password security is paramount. However, users often struggle to create memorable yet secure passwords, leading to the use of weak or reused passwords. This increases vulnerability to cyberattacks, posing risks to personal and organizational security.
 
-This project presents an innovative solution that utilizes deep learning to generate memorable password phrases. By transforming complex password requirements into easily memorable stories, users can enhance their security without sacrificing usability.
+This project presents a solution that utilizes deep learning to generate memorable password phrases. By transforming complex password requirements into easily memorable stories, users can enhance their security without sacrificing usability.
 
 ## Key Features
 **Memorable Password Generation:** Leverages NLP techniques to create unique password phrases that users can easily remember.  
@@ -14,7 +14,8 @@ This project presents an innovative solution that utilizes deep learning to gene
 ** LSTM (Long Short-Term Memory): Utilized for sequence generation, allowing the model to understand context and improve the relevance of generated phrases.  
 ** Transformer-based Models: Leveraging Hugging Face's powerful transformer models, I implemented various architectures to generate coherent and memorable password phrases. These models utilize state-of-the-art NLP techniques to ensure high-quality outputs.
 
-Story Cloze Dataset
+## Story Cloze Dataset  
+
 The dataset used for training the models consists of corpus of common stories. 
 
 Data Preparation
